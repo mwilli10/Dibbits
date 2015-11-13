@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dibbits</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dibbit_title_hint">Enter Dibbit here!</string>
+
+    <string name="dibbit_title_label">Title</string>
+    <string name="dibbit_details_label">Details</string>
+    <string name="dibbit_done_label">Done</string>
+</resources>
