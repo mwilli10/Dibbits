@@ -11,7 +11,7 @@ public class Dibbit {
     private boolean mIsDone;
 
     public Dibbit() {
-        // Generate unique identifier
+        // Makes new Dibbit with random ID and empty date
         mId = UUID.randomUUID();
         mDate = new Date();
 
