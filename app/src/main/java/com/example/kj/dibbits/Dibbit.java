@@ -14,8 +14,8 @@ public class Dibbit {
         // Makes new Dibbit with random ID and empty date
         mId = UUID.randomUUID();
         mDate = new Date();
-
     }
+
 
     public UUID getId() {
         return mId;
